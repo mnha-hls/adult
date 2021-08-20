@@ -6,4 +6,6 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:4.000,
 seg-1-v1-a1.ts
+#EXTINF:4.000,
+seg-2-v1-a1.ts
 #EXT-X-ENDLIST
